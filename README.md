@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋 It's [Bruno!](https://brunomiga.me)
+I'm a developer who loves [React](https://reactjs.org) and [Arduino](https://arduino.cc).
 
-<!--
-**bconesta/bconesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/bruno-conesta/">
+<img align="left" alt="Bruno Conesta LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a>
+<a href="https://www.youtube.com/channel/UChOt1OVvVn6T3416F-QiKfw">
+<img align="left" alt="Brunomiga YouTube" width="22px" src="https://icongr.am/fontawesome/youtube.svg?size=128&color=70c8ff" />
+</a>
+<a href="https://www.instagram.com/bruno_conesta/">
+<img align="left" alt="Bruno Conesta Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
